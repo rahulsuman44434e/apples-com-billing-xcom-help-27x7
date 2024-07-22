@@ -1,0 +1,15 @@
+
+    "scripts": {
+      "start": "parcel serve ./*.html --port $PORT",
+      "build": "parcel build ./*.html --out-dir ./build"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "parcel": "^2.7.0"
+    },
+    "engines": {
+      "node": ">=10.0.0"
+    }
+  
+  
